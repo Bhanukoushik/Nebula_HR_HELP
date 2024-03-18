@@ -1,0 +1,20 @@
+langchain
+pandas
+openai
+streamlit
+python-dotenv
+tiktoken
+streamlit-chat
+pypdf
+joblib
+pinecone-client
+pypdf2
+scikit-learn
+nltk
+sentence-transformers
+langchain-anthropic
+
+#pip install 'spacy~=2.3.5"
+#pip install resume-parser
+#python -m spacy download en_core_web_sm
+
