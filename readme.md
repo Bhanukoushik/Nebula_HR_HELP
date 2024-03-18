@@ -77,15 +77,15 @@ You will be getting the list of Candidate profiles with Summaries and Matching s
 **1. Entering Inputs**
 ![WhatsApp Image 2024-03-18 at 03 22 14](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/51e10577-325f-4b02-b573-a7f22d53a43d)
 
-**2. Comparing Two candidates**
+**2. Comparing Two Candidates**
 ![WhatsApp Image 2024-03-18 at 03 28 51](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/9aef2759-c95d-472e-96d0-7cedfe717dd5)
 
 **3. Matching Score and Summary of a Candidate**
 ![WhatsApp Image 2024-03-18 at 14 04 02](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/10eaedd2-4040-41c6-8e8f-36ec4dc85352)
 
-**4.Rejection mail Notification in Terminal**
+**4.Rejection Mail Notification in Terminal**
 ![WhatsApp Image 2024-03-18 at 15 37 19](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/c34487bb-8bd6-4615-9d93-6034cbb528ed)
 
-**5. Rejection mail notification to Candidate mail**
+**5. Rejection Mail Notification Sent to Candidate Email Automatically**
 ![WhatsApp Image 2024-03-18 at 16 44 49](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/19f72467-f58b-4e75-8a00-67b865286db3)
 
