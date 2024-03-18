@@ -30,7 +30,7 @@ def send_rejection_email(doc):
     # Send email
     with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
         smtp.starttls()
-        smtp.login("koushikavuthucs3018@gmail.com", "iuze whur jzzc vsou")
+        smtp.login("koushikavuthucs3018@gmail.com", "password")
         smtp.send_message(message)
         print(f"Rejection email sent to {candidate_email}")
 
