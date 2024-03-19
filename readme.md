@@ -75,7 +75,10 @@ You will be getting the list of Candidate profiles with Summaries and Matching s
 
 ### Test Results
 **1. Entering Inputs**
-![WhatsApp Image 2024-03-18 at 03 22 14](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/51e10577-325f-4b02-b573-a7f22d53a43d)
+![WhatsApp Image 2024-03-19 at 10 27 52](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/c1c30eda-b6fe-4cd9-b740-9129c411ab85)
+
+![WhatsApp Image 2024-03-19 at 10 29 17](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/6d5741cb-500a-468a-ad04-c7ef12695b4f)
+
 
 **2. Comparing Two Candidates**
 ![WhatsApp Image 2024-03-18 at 03 28 51](https://github.com/Bhanukoushik/Nebula_HR_HELP/assets/92176220/9aef2759-c95d-472e-96d0-7cedfe717dd5)
